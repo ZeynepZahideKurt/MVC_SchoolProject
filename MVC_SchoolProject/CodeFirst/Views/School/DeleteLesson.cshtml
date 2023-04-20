@@ -1,0 +1,22 @@
+﻿@using CodeFirst.Entities.Concrete;
+@model DeleteLessonVM
+
+<h3>@Model.School.Name Dersleri</h3>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DeleteLesson" method="post">
+            <input type="hidden" asp-for="School.Id" />
+            <select asp-for="LessonId" class="form-control">
+                @foreach (var item in Model.School.Lessons)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+
+            <div class="form-group">
+                <input type="submit" value="Ders Sil" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,69 @@
+﻿@using CodeFirst.Entities.Concrete;
+@{
+    ViewData["Title"] = "Öğrenciler";
+}
+@model List<Student>
+
+<h1 class="text-danger"> Öğrenciler</h1>
+
+
+
+@if (TempData["Bildiri"] != null)
+{
+    <div>
+        @TempData["Bildiri"]
+    </div>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Class
+            </th>
+            <th>
+                Lesson
+            </th>
+            <th>
+                School
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Student item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.Class
+                </td>
+                <td>
+                    @item.Lessons.Name
+                </td>
+                <td>
+                    @item.School.Name
+                </td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Update" asp-route-id="@item.Id">Update Student </a>
+                    <a class="btn btn-warning" asp-action="Delete" asp-route-id="@item.Id">Delete Student </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    <a class="btn btn-outline-primary" asp-action="AddStudent">Create</a>
+</div>

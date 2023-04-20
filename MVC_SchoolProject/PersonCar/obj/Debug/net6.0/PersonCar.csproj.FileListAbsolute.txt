@@ -1,0 +1,93 @@
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.Development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.staticwebassets.runtime.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.deps.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.runtimeconfig.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfoInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.MvcApplicationPartsAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.PersonCar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.build.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\bundle\PersonCar.styles.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\projectbundle\PersonCar.bundle.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\refint\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.genruntimeconfig.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\PersonCar\obj\Debug\net6.0\ref\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.Development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.staticwebassets.runtime.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.deps.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.runtimeconfig.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfoInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.MvcApplicationPartsAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.PersonCar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCar.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.build.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\bundle\PersonCar.styles.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\projectbundle\PersonCar.bundle.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\refint\PersonCar.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.genruntimeconfig.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\PersonCar\obj\Debug\net6.0\ref\PersonCar.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\appsettings.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.staticwebassets.runtime.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.exe
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.deps.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.runtimeconfig.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\bin\Debug\net6.0\PersonCar.pdb
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfoInputs.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.AssemblyInfo.cs
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.RazorAssemblyInfo.cs
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.PersonCar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCar.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCar.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCar.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\bundle\PersonCar.styles.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\scopedcss\projectbundle\PersonCar.bundle.scp.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\refint\PersonCar.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.pdb
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\PersonCar.genruntimeconfig.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\PersonCar\obj\Debug\net6.0\ref\PersonCar.dll

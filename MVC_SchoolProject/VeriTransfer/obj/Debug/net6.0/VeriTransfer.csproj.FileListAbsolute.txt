@@ -1,0 +1,93 @@
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.Development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.staticwebassets.runtime.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.deps.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.runtimeconfig.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfoInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.MvcApplicationPartsAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.VeriTransfer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.build.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.build.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\bundle\VeriTransfer.styles.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\projectbundle\VeriTransfer.bundle.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\refint\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.genruntimeconfig.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\DersMVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\ref\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.Development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.staticwebassets.runtime.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.exe
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.deps.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.runtimeconfig.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.AssemblyReference.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfoInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.CoreCompileInputs.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.MvcApplicationPartsAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cs
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.VeriTransfer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.build.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VeriTransfer.props
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.build.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.development.json
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\bundle\VeriTransfer.styles.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\projectbundle\VeriTransfer.bundle.scp.css
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\refint\VeriTransfer.dll
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.pdb
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.genruntimeconfig.cache
+D:\ARDA D\Arda\YAZILIM\Trainer\Arda\MVC\NRM-MVC\VeriTransfer\obj\Debug\net6.0\ref\VeriTransfer.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\appsettings.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.staticwebassets.runtime.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.exe
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.deps.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.runtimeconfig.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\bin\Debug\net6.0\VeriTransfer.pdb
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.AssemblyReference.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfoInputs.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.AssemblyInfo.cs
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.csproj.CoreCompileInputs.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.RazorAssemblyInfo.cs
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.VeriTransfer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.build.VeriTransfer.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VeriTransfer.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VeriTransfer.props
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\bundle\VeriTransfer.styles.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\scopedcss\projectbundle\VeriTransfer.bundle.scp.css
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\refint\VeriTransfer.dll
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.pdb
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\VeriTransfer.genruntimeconfig.cache
+C:\Users\kyeti\Desktop\GenericMVC2\NRM-MVC\VeriTransfer\obj\Debug\net6.0\ref\VeriTransfer.dll

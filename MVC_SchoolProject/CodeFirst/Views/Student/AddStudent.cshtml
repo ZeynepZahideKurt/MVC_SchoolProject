@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "AddStudent";
+}
+@using CodeFirst.Entities.Concrete;
+
+@model AddStudentVM
+
+<h1 class="text-warning">Öğrenci Ekle</h1>
+
+<h1>AddStudent</h1>
+
+<hr />
+
+@if (ViewBag.Bildiri != null)
+{
+    <div class="text-warning">
+        @ViewBag.Bildiri
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddStudent" method="post">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+            <label asp-for="Class" class="control-label"></label>
+            <input asp-for="Class" class="form-control" />
+            <span asp-validation-for="Class" class="text-danger"></span>
+            <label class="control-label">Ders</label>
+            <select asp-for="LessonId" class="form-control">
+                @foreach (Lesson item in Model.Lessons)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+            <label class="control-label">Okul</label>
+            <select asp-for="SchoolId" class="form-control">
+                @foreach (School item in Model.Schools)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+            <div class="form-group">
+                <input type="submit" value="Öğrenci Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
